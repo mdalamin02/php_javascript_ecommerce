@@ -141,6 +141,7 @@ class USER
 		return true;
 	}
 
+	
 
 }
 ?>
